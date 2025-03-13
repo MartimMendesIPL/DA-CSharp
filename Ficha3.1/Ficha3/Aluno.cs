@@ -8,8 +8,8 @@ namespace Ficha3
 {
     class Aluno : Pessoa
     {
-        public string nrAluno;
-        public string curso;
+        public string nrAluno { get; }
+        public string curso { get; }
 
         public Aluno(string nome, DateTime dataNascimento, string nrAluno, string curso)
                 : base(nome, dataNascimento)

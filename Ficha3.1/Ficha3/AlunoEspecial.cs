@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Ficha3
 {
-    class AlunoEspecial : Pessoa
+    class AlunoEspecial : Aluno
     {
         public string dificuldade;
 
-        public AlunoEspecial(string nome, DateTime dataNascimento, string dificuldade)
-                            : base(nome, dataNascimento)
+        public AlunoEspecial(string nome, DateTime dataNascimento, string nrAluno, string curso, string dificuldade)
+                            : base(nome, dataNascimento, nrAluno, curso)
         {
             this.dificuldade = dificuldade;
         }

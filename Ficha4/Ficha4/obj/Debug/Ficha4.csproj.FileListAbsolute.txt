@@ -1,0 +1,10 @@
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha4\Ficha4\bin\Debug\Ficha4.exe.config
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha4\Ficha4\bin\Debug\Ficha4.exe
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha4\Ficha4\bin\Debug\Ficha4.pdb
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha4\Ficha4\obj\Debug\Ficha4.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha4\Ficha4\obj\Debug\Ficha4.Form1.resources
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha4\Ficha4\obj\Debug\Ficha4.Properties.Resources.resources
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha4\Ficha4\obj\Debug\Ficha4.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha4\Ficha4\obj\Debug\Ficha4.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha4\Ficha4\obj\Debug\Ficha4.exe
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha4\Ficha4\obj\Debug\Ficha4.pdb

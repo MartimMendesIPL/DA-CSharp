@@ -16,17 +16,28 @@ namespace Ficha3
         {
             InitializeComponent();
         }
-
-        private void buttonAdicionar_Click(object sender, EventArgs e)
+        public bool validaPessoa()
         {
-            string nome = textBoxNome.Text;
-            DateTime dataNascimento = monthCalendar1.SelectionStart;
+            if (textBoxNome.Text == "" || monthCalendar1.SelectionStart > DateTime.Now)
+            {
+                MessageBox.Show("O campo nome não foi preenchido ou a data escolhida é inválida");
+                return false;
+            }
 
-            Pessoa newPessoa = new Pessoa(nome, dataNascimento);
+            return true;
 
-            listBox1.Items.Add(newPessoa);
         }
+        public bool validaAluno()
+        {
+            if (textBoxNrAluno.Text == "" || textBoxCurso.Text == "")
+            {
+                MessageBox.Show("Preencha o campo nr aluno e o campo curso");
+                return false;
+            }
 
+            return true;
+
+        }
         private void buttonPontuar_Click(object sender, EventArgs e)
         {
             if (listBox1.SelectedIndex != -1)
@@ -36,9 +47,29 @@ namespace Ficha3
                 listBox1.Items[listBox1.SelectedIndex] = pessoa;
             }
         }
+        private void buttonAdicionar_Click(object sender, EventArgs e)
+        {
+            if (!validaPessoa())
+            {
+                return;
+            }
+            string nome = textBoxNome.Text;
+            DateTime dataNascimento = monthCalendar1.SelectionStart;
 
+            Pessoa newPessoa = new Pessoa(nome, dataNascimento);
+
+            listBox1.Items.Add(newPessoa);
+        }
         private void buttonAdicionarAluno_Click(object sender, EventArgs e)
         {
+            if (!validaPessoa())
+            {
+                return;
+            }
+            if (!validaAluno())
+            {
+                return;
+            }
             string nrAluno = textBoxNrAluno.Text;
             string curso = textBoxCurso.Text;
 
@@ -49,15 +80,39 @@ namespace Ficha3
 
         private void buttonAdicionarAlunoEsp_Click(object sender, EventArgs e)
         {
+            if (!validaPessoa())
+            {
+                return;
+            }
+            if (!validaAluno())
+            {
+                return;
+            }
+            if(textBoxDificuldade.Text == "")
+            {
+                MessageBox.Show("Preencha o campo dificuldade!");
+                return;
+            }
             string dificuldade = textBoxDificuldade.Text;
+            string nrAluno = textBoxNrAluno.Text;
+            string curso = textBoxCurso.Text;
 
-            AlunoEspecial newAlunoEspecial = new AlunoEspecial(textBoxNome.Text, monthCalendar1.SelectionStart, dificuldade);
+            AlunoEspecial newAlunoEspecial = new AlunoEspecial(textBoxNome.Text, monthCalendar1.SelectionStart, nrAluno, curso, dificuldade);
 
             listBox1.Items.Add(newAlunoEspecial);
         }
 
         private void buttonAdicionarProfessor_Click(object sender, EventArgs e)
         {
+            if (!validaPessoa())
+            {
+                return;
+            }
+            if (textBoxDisciplina.Text == "")
+            {
+                MessageBox.Show("Preencha o campo disciplina!");
+                return;
+            }
             string disciplina = textBoxDisciplina.Text;
 
             Professor newProfessor = new Professor(textBoxNome.Text, monthCalendar1.SelectionStart, disciplina);
