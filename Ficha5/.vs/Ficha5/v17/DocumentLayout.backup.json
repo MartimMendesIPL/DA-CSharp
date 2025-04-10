@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EDD0CD-62DB-4B2C-B900-D36754CB3041}|Ficha5\\Ficha5.csproj|c:\\users\\marti\\desktop\\da\\da-csharp\\ficha5\\ficha5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EDD0CD-62DB-4B2C-B900-D36754CB3041}|Ficha5\\Ficha5.csproj|solutionrelative:ficha5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EDD0CD-62DB-4B2C-B900-D36754CB3041}|Ficha5\\Ficha5.csproj|C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\ficha5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9EDD0CD-62DB-4B2C-B900-D36754CB3041}|Ficha5\\Ficha5.csproj|solutionrelative:ficha5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EDD0CD-62DB-4B2C-B900-D36754CB3041}|Ficha5\\Ficha5.csproj|C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\ficha5\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EDD0CD-62DB-4B2C-B900-D36754CB3041}|Ficha5\\Ficha5.csproj|solutionrelative:ficha5\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EDD0CD-62DB-4B2C-B900-D36754CB3041}|Ficha5\\Ficha5.csproj|C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\ficha5\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EDD0CD-62DB-4B2C-B900-D36754CB3041}|Ficha5\\Ficha5.csproj|solutionrelative:ficha5\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EDD0CD-62DB-4B2C-B900-D36754CB3041}|Ficha5\\Ficha5.csproj|C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\ficha5\\linha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EDD0CD-62DB-4B2C-B900-D36754CB3041}|Ficha5\\Ficha5.csproj|solutionrelative:ficha5\\linha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EDD0CD-62DB-4B2C-B900-D36754CB3041}|Ficha5\\Ficha5.csproj|C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\ficha5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EDD0CD-62DB-4B2C-B900-D36754CB3041}|Ficha5\\Ficha5.csproj|solutionrelative:ficha5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\Ficha5\\Form1.cs",
+              "RelativeDocumentMoniker": "Ficha5\\Form1.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\Ficha5\\Form1.cs",
+              "RelativeToolTip": "Ficha5\\Form1.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAIwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:26:06.892Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Linha.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\Ficha5\\Linha.cs",
+              "RelativeDocumentMoniker": "Ficha5\\Linha.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\Ficha5\\Linha.cs",
+              "RelativeToolTip": "Ficha5\\Linha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:20:08.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\Ficha5\\Compra.cs",
+              "RelativeDocumentMoniker": "Ficha5\\Compra.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\Ficha5\\Compra.cs",
+              "RelativeToolTip": "Ficha5\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:15:52.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\Ficha5\\Cliente.cs",
+              "RelativeDocumentMoniker": "Ficha5\\Cliente.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\Ficha5\\Cliente.cs",
+              "RelativeToolTip": "Ficha5\\Cliente.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:45:38.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\Ficha5\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ficha5\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\Ficha5\\Form1.Designer.cs",
+              "RelativeToolTip": "Ficha5\\Form1.Designer.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAADwv9wAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:44:18.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\Ficha5\\Form1.cs",
+              "RelativeDocumentMoniker": "Ficha5\\Form1.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\DA\\DA-CSharp\\Ficha5\\Ficha5\\Form1.cs [Design]",
+              "RelativeToolTip": "Ficha5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:17:39.5Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

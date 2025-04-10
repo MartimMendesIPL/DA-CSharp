@@ -1,0 +1,14 @@
+C:\Users\marti\Desktop\DA\Ficha9\Ficha9\obj\Debug\Ficha9.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\DA\Ficha9\Ficha9\obj\Debug\Ficha9.Properties.Resources.resources
+C:\Users\marti\Desktop\DA\Ficha9\Ficha9\obj\Debug\Ficha9.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\DA\Ficha9\Ficha9\obj\Debug\Ficha9.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\DA\Ficha9\Ficha9\bin\Debug\Ficha9.exe.config
+C:\Users\marti\Desktop\DA\Ficha9\Ficha9\bin\Debug\Ficha9.exe
+C:\Users\marti\Desktop\DA\Ficha9\Ficha9\bin\Debug\Ficha9.pdb
+C:\Users\marti\Desktop\DA\Ficha9\Ficha9\bin\Debug\EntityFramework.dll
+C:\Users\marti\Desktop\DA\Ficha9\Ficha9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marti\Desktop\DA\Ficha9\Ficha9\bin\Debug\EntityFramework.xml
+C:\Users\marti\Desktop\DA\Ficha9\Ficha9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marti\Desktop\DA\Ficha9\Ficha9\obj\Debug\Ficha9.csproj.Up2Date
+C:\Users\marti\Desktop\DA\Ficha9\Ficha9\obj\Debug\Ficha9.exe
+C:\Users\marti\Desktop\DA\Ficha9\Ficha9\obj\Debug\Ficha9.pdb

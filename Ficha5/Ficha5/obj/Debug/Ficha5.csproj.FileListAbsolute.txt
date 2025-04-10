@@ -1,0 +1,10 @@
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha5\Ficha5\bin\Debug\Ficha5.exe.config
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha5\Ficha5\bin\Debug\Ficha5.exe
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha5\Ficha5\bin\Debug\Ficha5.pdb
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha5\Ficha5\obj\Debug\Ficha5.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha5\Ficha5\obj\Debug\Ficha5.Form1.resources
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha5\Ficha5\obj\Debug\Ficha5.Properties.Resources.resources
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha5\Ficha5\obj\Debug\Ficha5.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha5\Ficha5\obj\Debug\Ficha5.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha5\Ficha5\obj\Debug\Ficha5.exe
+C:\Users\marti\Desktop\DA\DA-CSharp\Ficha5\Ficha5\obj\Debug\Ficha5.pdb
